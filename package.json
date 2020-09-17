@@ -1,0 +1,28 @@
+{
+  "name": "hawkeye-recipes",
+  "version": "0.0.1",
+  "description": "Hawkeye recipes is a collection of recipes for Auth0 custom OAuth2 connections",
+  "scripts": {
+    "test": "mocha checker.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcenturion/hawkeye-recipes.git"
+  },
+  "keywords": [
+    "auth0",
+    "connections",
+    "recipes",
+    "oauth2"
+  ],
+  "author": "centurion.javier@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcenturion/hawkeye-recipes/issues"
+  },
+  "homepage": "https://github.com/jcenturion/hawkeye-recipes#readme",
+  "devDependencies": {
+    "chai": "^3.4.0",
+    "mocha": "^2.3.3"
+  }
+}
